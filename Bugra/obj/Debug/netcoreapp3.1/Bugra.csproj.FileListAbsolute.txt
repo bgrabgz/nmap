@@ -1,0 +1,11 @@
+C:\Users\CANBERK\source\repos\Bugra\Bugra\bin\Debug\netcoreapp3.1\Bugra.exe
+C:\Users\CANBERK\source\repos\Bugra\Bugra\bin\Debug\netcoreapp3.1\Bugra.deps.json
+C:\Users\CANBERK\source\repos\Bugra\Bugra\bin\Debug\netcoreapp3.1\Bugra.runtimeconfig.json
+C:\Users\CANBERK\source\repos\Bugra\Bugra\bin\Debug\netcoreapp3.1\Bugra.runtimeconfig.dev.json
+C:\Users\CANBERK\source\repos\Bugra\Bugra\bin\Debug\netcoreapp3.1\Bugra.dll
+C:\Users\CANBERK\source\repos\Bugra\Bugra\bin\Debug\netcoreapp3.1\Bugra.pdb
+C:\Users\CANBERK\source\repos\Bugra\Bugra\obj\Debug\netcoreapp3.1\Bugra.csprojAssemblyReference.cache
+C:\Users\CANBERK\source\repos\Bugra\Bugra\obj\Debug\netcoreapp3.1\Bugra.AssemblyInfoInputs.cache
+C:\Users\CANBERK\source\repos\Bugra\Bugra\obj\Debug\netcoreapp3.1\Bugra.AssemblyInfo.cs
+C:\Users\CANBERK\source\repos\Bugra\Bugra\obj\Debug\netcoreapp3.1\Bugra.dll
+C:\Users\CANBERK\source\repos\Bugra\Bugra\obj\Debug\netcoreapp3.1\Bugra.pdb
